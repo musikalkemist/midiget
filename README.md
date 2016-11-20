@@ -2,7 +2,7 @@
 Midiget allows you to crawl the pages of a website recursively and easily to download all hosted midi files. The programme is ideal to automate file retrieving from large midi repositories like www.vgmusic.com and www.midiworld.com  
 
 # Usage
-Launch midiget from the command line specifying the url of the target website where you want to download the files: 
+Launch midiget from the command line specifying the url of the target website from which you want to download the files: 
 ```
 python midiget http://www.vgmusic.com/
 ```
