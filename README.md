@@ -6,7 +6,7 @@ Launch midiget from the command line specifying the url of the target website fr
 ```
 python midiget http://www.vgmusic.com/
 ```
-You must be in the midiget directory when launching the programme. In the example above, midiget starts crawling the pages of vgmusic.com in search for midi files. 
+You must be in the midiget directory when launching the program. In the example above, midiget starts crawling the pages of vgmusic.com in search for midi files. 
 
 When launching the program, it is also possible to input a second (numerical) argument in order to specify the maximum number of pages midiget will visit before halting:
 ```
@@ -19,7 +19,7 @@ The files downloaded are saved in a directory called 'midisaves', placed in the 
 # Installation
 Download midiget and unzip it. If you're on a linux machine, you can use the following command -- granted you have unzip installed:
 ```
-unzip midiget.zip
+unzip midiget-master.zip
 ```
 
 # Dependencies
